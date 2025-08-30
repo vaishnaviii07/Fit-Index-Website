@@ -31,4 +31,4 @@ It not only calculates BMI but also provides quick feedback on health categories
  Clone the repository:
  
    git clone 
-   https://github.com/vaishnaviii07/bmi-calculator.git
+   https://github.com/vaishnaviii07/Fit-Index Website.git
