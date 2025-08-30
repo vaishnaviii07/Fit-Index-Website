@@ -32,3 +32,7 @@ It not only calculates BMI but also provides quick feedback on health categories
  
    git clone 
    https://github.com/vaishnaviii07/Fit-Index Website.git
+
+   run project at 
+   https://vaishnaviii07.github.io/Fit-Index Website/
+
