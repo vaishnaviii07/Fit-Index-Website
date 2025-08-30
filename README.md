@@ -22,9 +22,13 @@ Users can enter their height and weight to quickly calculate their BMI and check
 ## **Screenshot**
 [Website Screenshot](screenshot.png) 
 
+## **Conclusion**
+
+This project demonstrates how simple web technologies (HTML, CSS, JavaScript) can be combined to create a useful health-related tool.
+It not only calculates BMI but also provides quick feedback on health categories, making it a handy utility for personal use.
+
 ## **Installation & Usage**
  Clone the repository:
  
    git clone 
-   
-   https://github.com/YOUR-USERNAME/bmi-calculator.git
+   https://github.com/vaishnaviii07/bmi-calculator.git
