@@ -33,7 +33,20 @@ It not only calculates BMI but also provides quick feedback on health categories
    git clone 
    https://github.com/vaishnaviii07/Fit-Index-Website.git
 
-   run project at 
-   [Fit Index Live Website](https://vaishnaviii07.github.io/Fit-Index-Website/) 
+   To Run Project  
+
+### 1. Open directly 
+- Download/clone the repo.  
+- Open the `index.html` file in your browser.  
+
+### 2. Run on Localhost (Developer Mode)  
+- Install **Live Server** extension in VS Code.  
+- Right-click on `index.html`.  
+- Select **“Open with Live http:Server”**.  
+- Project will run at: [Run on Localhost](http://localhost:5500)
+
+### 3.Run Online (GitHub Pages)  
+No need to install anything — you can directly open the website here:  
+[Fit Index Live Website](https://vaishnaviii07.github.io/Fit-Index-Website/) 
    
 
